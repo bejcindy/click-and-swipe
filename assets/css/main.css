@@ -1,0 +1,24 @@
+﻿body {
+    background-color: black;
+}
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  text-align: center;
+  font-family: 'Noto Sans';
+  color:rgb(255,178,61);
+}
+
+video{
+    width:25%;
+    /*margin-bottom:20px;*/
+}
+
+img{
+	width:8%;
+}
